@@ -142,5 +142,12 @@ This project also highlighted the importance of machine learning in healthcare a
 
 # Output Screenshot
 
+<img width="845" height="390" alt="Image" src="https://github.com/user-attachments/assets/954c73be-0b0c-4894-9d2e-cdcfe191f3ab" />
+<img width="1057" height="522" alt="Image" src="https://github.com/user-attachments/assets/1e2ec759-aea3-4a5a-bd10-c95a3fe00bb0" />
+<img width="1108" height="786" alt="Image" src="https://github.com/user-attachments/assets/bdfe272c-4f31-4628-8b4c-06df88187649" />
+<img width="727" height="388" alt="Image" src="https://github.com/user-attachments/assets/042caeb3-ddb7-432d-84d9-c5c02e396e3f" />
+<img width="785" height="378" alt="Image" src="https://github.com/user-attachments/assets/c2d1f20f-f41f-435a-bcc8-706960023e16" />
+<img width="987" height="761" alt="Image" src="https://github.com/user-attachments/assets/e132e426-8b19-400d-bb42-30517afcded0" />
+<img width="1140" height="865" alt="Image" src="https://github.com/user-attachments/assets/63ff2417-bbd4-4147-9864-dc3784d2d8e3" />
 
   
